@@ -55,3 +55,18 @@ Bullet point 2:
 Comparing and contrasting: 
 - Real-life cases. It intuitively reflects the mental state of the employees who were laid off and makes us see the stress of the employees.
 
+### Resource 5: 
+> Tan, J. S. (2022, May 13). Tech Workers Lie Flat. Dissent Magazine. Retrieved April 23, 2023, from https://www.dissentmagazine.org/article/tech-workers-lie-flat 
+> 
+Bullet point 1: 
+- long working hours with tight schedules lead to huge work pressure for tech industry employees.
+
+
+Bullet point 2: 
+- Employees are unable to have a good working condition. A number of employees have suffered sudden death or suicide in recent years.
+
+
+Comparing and contrasting: 
+- The report provides details of the pressures faced by China tech employees. China is a typical example of workplace stress. In which company bathrooms are banned from the internet and the requirement to work 12 hours a day all reflect the stress that tech employees face at work.
+
+
